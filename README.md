@@ -1,4 +1,0 @@
-MyDocs
-======
-
-Documenti importanti
